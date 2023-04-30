@@ -1,0 +1,7 @@
+Script started on 2023-04-30 22:21:22+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="168" LINES="44"]
+CONTAINER ID   IMAGE     COMMAND                  CREATED         STATUS                     PORTS     NAMES
+d304f5c01082   nginx     "/docker-entrypoint.…"   3 minutes ago   Exited (0) 3 minutes ago             crazy_raman
+0389ee80e0ab   nginx     "/docker-entrypoint.…"   4 minutes ago   Exited (0) 3 minutes ago             vigilant_kilby
+7ef4f1e424bd   nginx     "/docker-entrypoint.…"   4 minutes ago   Up 4 minutes               80/tcp    frosty_boyd
+
+Script done on 2023-04-30 22:21:23+05:30 [COMMAND_EXIT_CODE="0"]
