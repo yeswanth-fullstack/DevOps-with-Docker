@@ -1,0 +1,14 @@
+Here is the command to start the process,
+
+docker run -it --name dependencies ubuntu sh -c 'while true; do echo "Input website:"; read website; echo "Searching.."; sleep 1; curl http://$website; done'
+
+In other bash, execute below command
+
+docker exec -it dependencies bash
+
+and inside bash, execute below commands
+
+apt-get update
+apt-get install curl
+
+then in the first bash re enter the input and the issue is resolved
