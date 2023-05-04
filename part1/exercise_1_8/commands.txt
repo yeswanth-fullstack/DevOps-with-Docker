@@ -1,0 +1,7 @@
+after building the image with below command,
+
+docker build . -t web-server
+
+I have executed below command to run the container,
+
+docker run web-server
