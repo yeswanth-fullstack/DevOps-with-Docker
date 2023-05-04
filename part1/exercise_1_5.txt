@@ -1,0 +1,8 @@
+Here are the commands I executed,
+
+docker pull devopsdockeruh/simple-web-service:alpine
+docker pull devopsdockeruh/simple-web-service:ubuntu
+
+size of alpine is 15.7MB compared to ubuntu tag 83MB
+
+and yes I am still getting the secret message

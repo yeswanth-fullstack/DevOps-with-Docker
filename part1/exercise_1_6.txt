@@ -1,0 +1,9 @@
+After executing the below command,
+
+docker run -it devopsdockeruh/pull_exercise
+
+I have opened dockerhub and searched for org first [ devopsdockerhub ] and then I found pull_exercise image
+
+Inside readme I can see "basics" as the input. I have entered this in docker prompt and then the secret message is revealed as 
+
+"This is the secret message"
