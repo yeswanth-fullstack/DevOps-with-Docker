@@ -10,4 +10,4 @@ RUN apt-get -y install curl
 
 RUN chmod +x script.sh
 
-CMD ./script.sh
+ENTRYPOINT ["./script.sh"]
