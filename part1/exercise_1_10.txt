@@ -1,0 +1,3 @@
+Command used to open the server in browser is,
+
+docker run -p 8080:8080 web-server
