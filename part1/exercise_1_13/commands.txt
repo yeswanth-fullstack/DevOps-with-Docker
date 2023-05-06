@@ -1,0 +1,5 @@
+Here are the commands used to built and run the docker image
+
+docker build -t back-end .
+docker run -p 8080:8080 back-end
+
