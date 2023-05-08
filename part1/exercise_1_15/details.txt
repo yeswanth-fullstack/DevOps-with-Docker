@@ -1,0 +1,14 @@
+to get the code for the app, use below github URL,
+
+https://github.com/yeswanth-fullstack/scrapy-project
+
+I have created a dockerfile for the above project and published to docker hub. Here is the link,
+
+https://hub.docker.com/repository/docker/yeswanthfullstack/python-scrapy/general
+
+Here is the procedure for running image
+
+1. create an empty file scrapped_data.json in any folder for the storage
+2. docker run -v "$(pwd)/scrapped_data.json:/usr/src/app/chocolatescraper/scrapped_data.json" yeswanthfullstack/python-scrapy
+3. check scrapped_data.json file for output generated form scrapy app
+ 

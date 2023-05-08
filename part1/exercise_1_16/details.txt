@@ -1,0 +1,5 @@
+Here are the steps I followed
+
+1. build a Dockerfile for the django application and testing it
+2. created an acount in render.com
+3. 

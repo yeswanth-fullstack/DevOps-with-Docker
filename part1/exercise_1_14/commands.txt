@@ -1,0 +1,9 @@
+Here are the commands I used to run the docker files.
+
+For front-end under Dockerfile path, execute below command
+
+docker run -p 5000:5000 -d front-end
+
+For back-end under Dockerfile path, execute below command
+
+docker run -p 8080:8080 -d back-end
