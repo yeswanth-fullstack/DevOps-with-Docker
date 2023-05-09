@@ -2,4 +2,10 @@ Here are the steps I followed
 
 1. build a Dockerfile for the django application and testing it
 2. created an acount in render.com
-3. 
+3. created new web srvice from render dashboard and selected Docker as the runtime and deployed
+
+Here is the URL of the docker image deployed on render,
+
+https://my-blog-0nlx.onrender.com/projects/
+
+ 
