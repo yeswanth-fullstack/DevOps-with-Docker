@@ -1,0 +1,3 @@
+Here is the command I used to scale the compute service
+
+docker compose up -d --scale compute=3
